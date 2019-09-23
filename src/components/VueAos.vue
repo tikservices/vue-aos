@@ -22,7 +22,7 @@ export default {
       default: 0.5
     },
     root: {
-      type: HTMLElement,
+      type: Object,
       default: () => null
     },
     rootMargin: {
